@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\bookcopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\bookcopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\booksize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\booksize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\bookformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\bookformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\bookedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\bookedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\aggregatesmodel\\bookaggregate\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\exceptions\\librarycatalogdomainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\exceptions\\librarycatalogdomainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\seedwork\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\seedwork\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\seedwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\seedwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\seedwork\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\seedwork\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE4CFF-0E79-4BDB-9323-B88756ABED85}|Library.UnitTests\\Library.UnitTests.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\library.unittests\\bookcopyunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE4CFF-0E79-4BDB-9323-B88756ABED85}|Library.UnitTests\\Library.UnitTests.csproj|solutionrelative:library.unittests\\bookcopyunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\seedwork\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\seedwork\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\seedwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\seedwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|c:\\users\\tree\\source\\repos\\naskkhaneh\\naskkhaneh.domain\\seedwork\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A3FCCD-E13A-4B71-8822-421D5E440357}|Naskkhaneh.Domain\\LibraryCatalog.Domain.csproj|solutionrelative:naskkhaneh.domain\\seedwork\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookSize.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookSize.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookSize.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookSize.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:25:00.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookFormat.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookFormat.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookFormat.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookFormat.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookFormat.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:20:32.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookEdition.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookEdition.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookEdition.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookEdition.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookEdition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:15:14.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryCatalogDomainException.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\Exceptions\\LibraryCatalogDomainException.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\Exceptions\\LibraryCatalogDomainException.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\Exceptions\\LibraryCatalogDomainException.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\Exceptions\\LibraryCatalogDomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:19:26.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\Author.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\Author.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\Author.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:19:21.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\Book.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\Book.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\Book.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\Book.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T07:44:36.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookCopy.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookCopy.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookCopy.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookCopy.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\BookCopy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:59:13.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\SeedWork\\Entity.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\SeedWork\\Entity.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\SeedWork\\Entity.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\SeedWork\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:19:23.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\Publisher.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\Publisher.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\Publisher.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\AggregatesModel\\BookAggregate\\Publisher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:47:30.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\SeedWork\\IRepository.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\SeedWork\\IRepository.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\SeedWork\\IRepository.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\SeedWork\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:19:25.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enumeration.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\SeedWork\\Enumeration.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\SeedWork\\Enumeration.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\SeedWork\\Enumeration.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\SeedWork\\Enumeration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:19:24.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\GlobalUsing.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:35:40.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookCopyUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Library.UnitTests\\BookCopyUnitTest.cs",
+              "RelativeDocumentMoniker": "Library.UnitTests\\BookCopyUnitTest.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Library.UnitTests\\BookCopyUnitTest.cs",
+              "RelativeToolTip": "Library.UnitTests\\BookCopyUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T07:56:30.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\SeedWork\\ValueObject.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\SeedWork\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\SeedWork\\ValueObject.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\SeedWork\\ValueObject.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:19:26.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\SeedWork\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\SeedWork\\IAggregateRoot.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\SeedWork\\IAggregateRoot.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\SeedWork\\IAggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:19:24.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\SeedWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Naskkhaneh.Domain\\SeedWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\tree\\source\\repos\\Naskkhaneh\\Naskkhaneh.Domain\\SeedWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Naskkhaneh.Domain\\SeedWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:19:26.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
